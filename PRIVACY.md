@@ -1,6 +1,6 @@
 # PrivacyPenguin Privacy Policy
 
-Version 1.0 – effective October 6, 2026
+Version 1.1 – effective November 5, 2026
 
 PrivacyPenguin is made by Near Systems, the name under which the individual developer of PrivacyPenguin publishes it ("we", "us"). This policy
 explains what happens to information when you use the PrivacyPenguin app (including its background service and
@@ -88,6 +88,10 @@ use no cookies, no analytics and no tracking.
 There are no paid features and nothing to buy yet. Before paid features (Plus) are sold, this section will describe how
 purchases work and what information we receive, and the change will be announced as described in section 9.
 
+**Founder list (optional).** If you email us to join the founder list, we keep your email address and the date in our
+mailbox, only to tell you when Plus is available and to honour the founder price. We don't share or sell it. Ask us at
+the same address and we delete it. It is never connected to the Software, which still sends us nothing.
+
 ## 5. What we never do
 
 We don't sell, rent or share personal information; we don't show ads; we don't build profiles; and we don't use your
@@ -100,7 +104,8 @@ The Software is not directed at children under 13, and we don't knowingly collec
 ## 7. Your rights
 
 Because the Software keeps your information only on your PC, you control it directly: you can view, change or delete it
-at any time (see section 1). We hold no information about you on our side. Once there is a private contact form or paid features, you will be able
+at any time (see section 1). Apart from the founder list (section 4), we hold no information about you on our side. If you joined it, email the
+same address to see or delete what we keep. Once there is a private contact form or paid features, you will be able
 to ask us to access, correct, export or delete what we hold about you. Depending on where you live (for example the European
 Union, the United Kingdom, California or Washington), you may have further rights under data protection law, and you
 can complain to your data protection authority. We will not discriminate against you for using these rights.
@@ -118,5 +123,6 @@ Plus, we'll also tell you by email at least 30 days before a change that affects
 
 ## 10. Contact
 
-Questions about privacy: the support page, https://github.com/PrivacyPenguin/PrivacyPenguin/issues (public; don't post personal information there). We hold
-no personal information about you. A private contact form will come with the PrivacyPenguin website.
+Questions about privacy: the support page, https://github.com/PrivacyPenguin/PrivacyPenguin/issues (public; don't post personal information there). Apart
+from the founder list (section 4), we hold no personal information about you. A private contact form will come with
+the PrivacyPenguin website.

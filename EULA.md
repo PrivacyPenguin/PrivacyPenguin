@@ -1,6 +1,6 @@
 # PrivacyPenguin End User License Agreement
 
-Version 1.0 – effective October 6, 2026
+Version 1.1 – effective November 5, 2026
 
 This agreement ("License") is between you and Near Systems, the name under which the individual developer of PrivacyPenguin publishes it ("we",
 "us"), the maker of PrivacyPenguin. It covers the PrivacyPenguin app, its background service, its command-line tool, its
@@ -125,10 +125,9 @@ We never apply changed terms to a version you already have.
 
 ## 12. General
 
-12.1 **Governing law.** This License is governed by the laws of the State of Washington, USA, and applicable US federal
-law, without regard to conflict-of-law rules. Disputes are decided by the state or federal courts located in
-Washington, unless the law where you live gives you the right to bring them where you live. If you are a consumer,
-you also keep the protection of the mandatory laws of the place where you live.
+12.1 **Governing law.** This License is governed by applicable law, including applicable US federal law. If you are a
+consumer, you keep the protection of the mandatory laws of the place where you live, and you can bring disputes there
+when that law gives you the right to.
 
 12.2 **Export.** You must comply with export and sanctions laws that apply to you and the Software.
 

@@ -2,7 +2,7 @@
 
 **Your privacy. Made simple.**
 
-Take control of what your PC shares. A free Windows 11 privacy tool: turn off telemetry, ads and AI features like
+Take control of what your PC shares. A free Windows 11 privacy tool: minimize telemetry, turn off ads and AI features like
 Recall and Copilot, harden your PC and browsers, and keep it that way after Windows updates.
 
 - **Less tracking** — More personal privacy.
@@ -23,17 +23,20 @@ Recall and Copilot, harden your PC and browsers, and keep it that way after Wind
 ## What it does
 
 - **Recommended** (best for most people): strong privacy and hardening with little effect on everyday use.
-- **Advanced settings:** choose each of 195 settings yourself, each with a clear note on what it changes.
+- **Advanced settings:** choose each of 196 settings yourself, each with a clear note on what it changes.
 - **After Windows updates:** notices when Windows switches settings back, and reminds you or restores them.
 - **Privacy dashboard:** your privacy score, which apps used your camera, microphone or location, and one-click
   encrypted DNS (Quad9).
-- **Undo:** every change can be undone, and a restore point is created first.
+- **Undo:** every setting can be put back, and a restore point is created first. Recall snapshots are the exception:
+  Windows deletes them when Recall is turned off.
+
+Every setting, with the exact registry values it changes and what Undo puts back: [setting reference](SETTINGS.md).
 
 Collects nothing: no telemetry of its own, no account. For Windows 11 (64-bit); Windows 10 may work but isn't tested.
 
 ## Download and install
 
-1. Download `PrivacyPenguin-Setup-1.1.0.exe` from the
+1. Download `PrivacyPenguin-Setup-1.1.1.exe` from the
    [latest release](https://github.com/PrivacyPenguin/PrivacyPenguin/releases/latest) (under **Assets**). Only download
    it from here: copies elsewhere may be tampered with.
 2. Open the file. Windows shows **"Windows protected your PC"** because PrivacyPenguin isn't code-signed yet: click
@@ -47,7 +50,7 @@ Collects nothing: no telemetry of its own, no account. For Windows 11 (64-bit); 
 Downloads folder and run:
 
 ```
-Get-FileHash .\PrivacyPenguin-Setup-1.1.0.exe
+Get-FileHash .\PrivacyPenguin-Setup-1.1.1.exe
 ```
 
 The result must match the checksum in the release notes exactly (for another version, use its file name).
@@ -72,6 +75,11 @@ all of its changes first (choose **Yes** to put everything back).
 - A **restore point** is created before changes, and **Undo all changes** puts back the original values.
 - Use **Preview only** on the Advanced settings page to see exactly what would change.
 - Uninstalling offers to undo everything first.
+
+## PrivacyPenguin Plus (planned)
+
+Everything above is free and stays free. Plus is planned for later: tracker blocking for every app on your PC,
+alerts when your email address shows up in a data breach, Public Wi-Fi Mode, and a check of your browser extensions.
 
 ## Feedback and problems
 
